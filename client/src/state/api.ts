@@ -1,8 +1,8 @@
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 import {
   GetKpisResponse,
-  GetProductsResponse,
-  GetTransactionsResponse,
+//   GetProductsResponse,
+//   GetTransactionsResponse,
 } from "./types";
 
 export const api = createApi({
